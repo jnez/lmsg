@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+   <title>Noticias IES Miguel Herrero Pereda</title>
+   <subtitle>Feed de noticias del instituto Miguel Herrero Pereda, en Torrelavega.</subtitle>
+   <link href="http://localhost/atom/ies.atom"/>
+   <updated>2002-10-02T10:00:00-05:00</updated>
+   <id>http://localhost/atom/ies.atom</id>
+   <link rel="self" href="http://localhost/atom/ies.atom"/>
+   <entry>
+      <id>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/revista-corrveidile-n%25C2%25BA-26?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13519983</id>
+      <title>Revista Correveidile nº 26</title>
+      <link rel="alternate"
+            href="https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/revista-corrveidile-n%25C2%25BA-26?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13519983"/>
+      <updated>2002-10-02T10:00:00-05:00</updated>
+      <author>
+         <name>IES Miguel Herrero Pereda</name>
+      </author>
+      <summary>Descarga ya el nº 26 de la Revista Correveidile </summary>
+   </entry>
+   <entry>
+      <id>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/premios-al-emprendimiento-en-cantabria?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13399159</id>
+      <title>Premios al emprendimiento en Cantabria</title>
+      <link rel="alternate"
+            href="https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/premios-al-emprendimiento-en-cantabria?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13399159"/>
+      <updated>2002-10-02T10:00:00-05:00</updated>
+      <author>
+         <name>IES Miguel Herrero Pereda</name>
+      </author>
+      <summary>EL IES Miguel Herrero se alzó con el mejor Premio de empredimiento en la categoría de Bachillerato y Grado Medio.</summary>
+   </entry>
+   <entry>
+      <id>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/charla-de-la-fundaci%25C3%25B3n-sdr-down-en-el-ies-miguel-herrero?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13363498</id>
+      <title>Charla de la Fundación Sdr Down en el IES Miguel Herrero</title>
+      <link rel="alternate"
+            href="https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/charla-de-la-fundaci%25C3%25B3n-sdr-down-en-el-ies-miguel-herrero?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13363498"/>
+      <updated>2002-10-02T10:00:00-05:00</updated>
+      <author>
+         <name>IES Miguel Herrero Pereda</name>
+      </author>
+      <summary>La Fundación S. Down visita a los alumnos de 1° ESO.</summary>
+   </entry>
+   <entry>
+      <id>https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/jornadas-de-puertas-abiertas?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=13061304</id>
+      <title>Jornadas de puertas abiertas</title>
+      <link rel="alternate"
+            href="https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/jornadas-de-puertas-abiertas?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=13061304"/>
+      <updated>2002-10-02T10:00:00-05:00</updated>
+      <author>
+         <name>IES Miguel Herrero Pereda</name>
+      </author>
+      <summary>Jornadas de puertas abiertas</summary>
+   </entry>
+   <entry>
+      <id>https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/startinnova?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=11452027</id>
+      <title>Startinnova</title>
+      <link rel="alternate"
+            href="https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/startinnova?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=11452027"/>
+      <updated>2002-10-02T10:00:00-05:00</updated>
+      <author>
+         <name>IES Miguel Herrero Pereda</name>
+      </author>
+      <summary>Diez años de innovación, aprendizaje, intercambio y creatividad son los que celebra esta edición STARTinnova, la iniciativa de El Diario Montañés para fomentar el emprendimiento entre el alumnado cántabro de Bachillerato y de Formación Profesional.</summary>
+   </entry>
+</feed>
+

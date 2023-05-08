@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <atom:link href="http://localhost/rss/ies.rss" rel="self" type="application/rss+xml"/>
+    <title>Noticias IES Miguel Herrero Pereda</title>
+    <link>http://localhost/atom/ies.atom</link>
+    <description>Feed de noticias del instituto Miguel Herrero Pereda, en Torrelavega.</description>
+    <image>
+        <url>https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png/9e9ecc59-329b-3369-b5b5-1929f670eb01?t=1666706242951</url>
+        <title>Noticias IES Miguel Herrero Pereda</title>
+        <link>http://localhost/atom/ies.atom</link>
+    </image>
+    <item>
+        <title>Revista Correveidile nº 26</title>
+        <link>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/revista-corrveidile-n%25C2%25BA-26?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13519983</link>
+        <description>Descarga ya el nº 26 de la Revista Correveidile </description>
+        <guid>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/revista-corrveidile-n%25C2%25BA-26?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13519983</guid>
+    </item>
+    <item>
+        <title>Premios al emprendimiento en Cantabria</title>
+        <link>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/premios-al-emprendimiento-en-cantabria?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13399159</link>
+        <description>EL IES Miguel Herrero se alzó con el mejor Premio de empredimiento en la categoría de Bachillerato y Grado Medio.</description>
+        <guid>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/premios-al-emprendimiento-en-cantabria?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13399159</guid>
+    </item>
+    <item>
+        <title>Charla de la Fundación Sdr Down en el IES Miguel Herrero</title>
+        <link>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/charla-de-la-fundaci%25C3%25B3n-sdr-down-en-el-ies-miguel-herrero?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13363498</link>
+        <description>La Fundación S. Down visita a los alumnos de 1° ESO.</description>
+        <guid>https://www.educantabria.es/web/ies-miguel-herrero-pereda/noticias/-/asset_publisher/ltXWYTzxVFg1/content/charla-de-la-fundaci%25C3%25B3n-sdr-down-en-el-ies-miguel-herrero?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ltXWYTzxVFg1_assetEntryId=13363498</guid>
+    </item>
+    <item>
+        <title>Jornadas de puertas abiertas</title>
+        <link>https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/jornadas-de-puertas-abiertas?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=13061304</link>
+        <description>Jornadas de puertas abiertas</description>
+        <guid>https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/jornadas-de-puertas-abiertas?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=13061304</guid>
+    </item>
+    <item>
+        <title>Startinnova</title>
+        <link>https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/startinnova?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=11452027</link>
+        <description>Diez años de innovación, aprendizaje, intercambio y creatividad son los que celebra esta edición STARTinnova, la iniciativa de El Diario Montañés para fomentar el emprendimiento entre el alumnado cántabro de Bachillerato y de Formación Profesional.</description>
+        <guid>https://www.educantabria.es/web/ies-miguel-herrero-pereda/ultimas-noticias/-/asset_publisher/zOAljCJ6WCnh/content/startinnova?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_zOAljCJ6WCnh_assetEntryId=11452027</guid>
+    </item>
+</channel>
+</rss>
