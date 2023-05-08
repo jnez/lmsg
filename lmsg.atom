@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    
+    <title>Módulo Lenguaje de Marcas - ASIR 1</title>
+    <subtitle>Entradas publicadas en el tablón del módulo de Lenguaje de Marcas de primero de ASIR</subtitle>    
+    <link rel="self" href="http://localhost/atom/ies.atom"/>
+    <updated>2002-10-02T10:00:00-05:00</updated>
+    <id>http://localhost/atom/ies.atom</id>
+    
+    <entry>
+        <title>Ejercicio Práctica conversión a PDF</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjA2/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjA2/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>Os adjunto una propuesta de ejercicio para practicar con la transformación a PDF.</summary>
+    </entry>
+    
+    <entry>
+        <title>Ejemplo XSL-FO</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjA1/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjA1/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>En el siguiente enlace os presento un ejemplo de transformación de datos XML a una salida PDF tras aplicar una transformación XSLT.</summary>
+    </entry>
+    
+    <entry>
+        <title>XSL-FO conversión XML a PDF</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjAx/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjAx/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>Después de haber practicado con la conversión entre XML y HTML llega el turno del formato de salida PDF.</summary>
+    </entry>
+    
+    <entry>
+        <title>Posibles soluciones XSL a la tarea.</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2Mzk1/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2Mzk1/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>Adjunto algunas de las posibles soluciones que he aceptado para los ejercicios de transformación XSL.</summary>
+    </entry>
+    
+    <entry>
+        <title>Transformaciones XSLT</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/a/NjAxOTgxNzc2NTcz/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/a/NjAxOTgxNzc2NTcz/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>1.-Crear un documento XSL (spain.xsl) que permita obtener a partir del fichero mondial.xml utilizado en clase, un nuevo documento XML que contenga únicamente la información de España (Nombre, Capital, Nombre de sus ciudades), con sus ríos y montañas.Este documento se llamará spain.xml.</summary>
+    </entry>
+    
+    <entry>
+        <title>5 transformaciones XSLT a modo de ejemplo</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjAz/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NjAz/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>Se adjunta un documento con las capturas que muestra el código de las hojas XSL, y el resultado de la transformación a una tarea que os propongo realizar.</summary>
+    </entry>
+    
+    <entry>
+        <title>Ordenación en la salida XSLT</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NTk3/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NTk3/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>Si queremos mostrar los datos transformados en un cierto orden, utilizaremos la siguiente sintaxis de la instrucción</summary>
+    </entry>
+    
+    <entry>
+        <title>Plantillas en XSLT</title>
+        <id>https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NTk1/details</id>
+        <link rel="alternate"
+            href="https://classroom.google.com/c/NTQ1NjczMTE2MjYx/m/NTQ1NjczMTE2NTk1/details"/>
+        <updated>2002-10-02T10:00:00-05:00</updated>
+        <author>
+            <name>david[PROF20] Abad</name>
+        </author>
+        <summary>Plantillas en XSLT</summary>
+    </entry>
+    
+</feed>
